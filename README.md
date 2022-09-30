@@ -22,17 +22,16 @@ The final map shows the following:
 
 **Streets Layer**
 
-![Streets](Resources/Streets.png)
 
 
 **Satellite Layer**
 
-![Satellite](Resources/Satellite.png)
+
 
 
 **Dark Layer**
 
-![Satellite](Resources/Dark.png)
+
 
 
 
