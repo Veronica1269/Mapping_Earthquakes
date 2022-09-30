@@ -1,7 +1,10 @@
 # Mapping Earthquakes
 
 
+
+
 ## OVERVIEW 
+
 
 The objective of this challenge was to display GeoJSON seismic data on a map using the Leaflet.js Application Programming Interface (API). Each earthquake is represented by a circle with a different colors and size to show the magnitud of the quake. The larger the diameter and the darker the color, the more powerful the quake. It is also possible to see the magnitude and position of an earthquake by clicking on any circle and reading the earthquake's pop-up marker.
 
@@ -14,7 +17,8 @@ The final map shows the following:
 
 
 
-### SUMMARY
+
+## SUMMARY
 
 **Streets Layer**
 
